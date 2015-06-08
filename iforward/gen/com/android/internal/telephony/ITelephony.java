@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: E:\\workspace\\iforward\\src\\com\\android\\internal\\telephony\\ITelephony.aidl
+ * Original file: /usr/dev/github/iforward/iforward/src/com/android/internal/telephony/ITelephony.aidl
  */
 package com.android.internal.telephony;
 /**  
