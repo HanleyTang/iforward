@@ -23,10 +23,10 @@ import android.widget.LinearLayout;
 
 /**
  * 操作指南界面
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-25下午2:32:33
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class GuidePageActivity extends Activity {
 

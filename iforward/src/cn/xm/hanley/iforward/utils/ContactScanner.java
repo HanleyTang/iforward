@@ -13,10 +13,10 @@ import android.provider.ContactsContract.PhoneLookup;
 
 /**
  * @Description: 扫描联系人
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-14下午5:32:35
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class ContactScanner extends Thread {
 

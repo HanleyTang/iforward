@@ -30,10 +30,10 @@ import android.widget.SimpleAdapter;
 
 /**
  * 转移历史记录
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-17下午3:43:19
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class HistoryFragment extends ListFragment {
 	

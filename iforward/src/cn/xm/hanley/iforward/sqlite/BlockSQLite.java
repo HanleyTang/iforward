@@ -13,10 +13,10 @@ import android.util.Log;
 
 /**
  * @Description: 转接列表
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-16上午11:05:33
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class BlockSQLite extends SQLiteOpenHelper {
 

@@ -8,10 +8,10 @@ import cn.xm.hanley.iforward.domain.Contact;
 
 /**
  * @Description: 不解释
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-7-10下午10:16:47
- * @Google+ http://gplus.to/hanleytowne 
+ * @Google+ www.google.com/+hanleytang 
  */
 public class Constants {
 	

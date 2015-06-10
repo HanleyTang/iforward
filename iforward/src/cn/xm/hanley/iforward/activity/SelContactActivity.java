@@ -21,10 +21,10 @@ import android.widget.TextView;
 
 /**
  * 转接号码选择联系人
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-20上午11:19:08
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class SelContactActivity extends ListActivity {
 

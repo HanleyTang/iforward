@@ -11,10 +11,10 @@ import android.util.Log;
 
 /**
  * @Description: 获取联系人数据[包含姓名和电话号码]
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-7下午11:26:52
- * @Google+ http://gplus.to/hanleytowne 
+ * @Google+ www.google.com/+hanleytang 
  */
 public class ContactsUtil {
 

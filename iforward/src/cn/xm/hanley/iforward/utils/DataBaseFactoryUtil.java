@@ -6,10 +6,10 @@ import cn.xm.hanley.iforward.sqlite.BlockSQLite;
 import cn.xm.hanley.iforward.sqlite.HistorySQLite;
 
 /**
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-16上午11:59:29
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class DataBaseFactoryUtil {
 

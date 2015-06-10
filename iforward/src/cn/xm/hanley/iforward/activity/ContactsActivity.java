@@ -27,10 +27,10 @@ import android.widget.Toast;
 
 /**
  * @Description: 显示联系人
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-5下午3:58:37
- * @Google+ http://gplus.to/hanleytowne 
+ * @Google+ www.google.com/+hanleytang 
  */
 public class ContactsActivity extends ListActivity {
 

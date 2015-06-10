@@ -8,10 +8,10 @@ import android.widget.Toast;
 
 
 /**
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-21上午10:14:43
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class TipsUtil {
 

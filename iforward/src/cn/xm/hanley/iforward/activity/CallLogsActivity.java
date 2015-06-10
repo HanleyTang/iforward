@@ -28,10 +28,10 @@ import android.widget.Toast;
 
 /**
  * 显示通话记录
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-23上午10:25:06
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class CallLogsActivity extends ListActivity {
 

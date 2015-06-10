@@ -11,10 +11,10 @@ import android.os.Message;
 
 /**
  * 转接对象扫描
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-17下午5:51:38
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class ForwardScanner extends Thread {
 

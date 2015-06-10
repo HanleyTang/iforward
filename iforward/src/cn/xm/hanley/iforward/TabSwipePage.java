@@ -20,10 +20,10 @@ import android.view.MenuItem;
 
 /**
  * 主界面
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-22下午3:19:18
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class TabSwipePage extends FragmentActivity implements ActionBar.TabListener {
 

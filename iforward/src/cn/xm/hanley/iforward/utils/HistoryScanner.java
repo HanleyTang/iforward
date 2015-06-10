@@ -11,10 +11,10 @@ import android.os.Message;
 
 /**
  * 扫描历史记录
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-17下午3:51:22
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class HistoryScanner extends Thread {
 

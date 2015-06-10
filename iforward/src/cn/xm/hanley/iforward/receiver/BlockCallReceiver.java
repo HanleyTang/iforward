@@ -21,10 +21,10 @@ import com.android.internal.telephony.ITelephony;
 
 /**
  * @Description: 转接来电,这里过滤拦截号码
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-7-21上午11:34:45
- * @Google+ http://gplus.to/hanleytowne 
+ * @Google+ www.google.com/+hanleytang 
  */
 public class BlockCallReceiver extends BroadcastReceiver {
 	

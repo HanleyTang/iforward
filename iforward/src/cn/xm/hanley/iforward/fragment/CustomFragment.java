@@ -21,10 +21,10 @@ import android.widget.TextView;
 
 /**
  * 设置转接号码
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-16下午3:53:05
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class CustomFragment extends Fragment{
 

@@ -32,10 +32,10 @@ import android.widget.ListView;
 
 /**
  * 转接对象
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-17下午3:43:19
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class ForwardFragment extends ListFragment {
 	

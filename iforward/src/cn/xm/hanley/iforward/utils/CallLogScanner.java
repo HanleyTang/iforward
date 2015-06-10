@@ -14,10 +14,10 @@ import android.provider.CallLog;
 
 /**
  * 扫描通话记录
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-23上午10:22:32
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class CallLogScanner extends Thread{
 	

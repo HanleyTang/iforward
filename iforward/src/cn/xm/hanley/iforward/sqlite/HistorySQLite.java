@@ -15,10 +15,10 @@ import android.util.Log;
 
 /**
  * 转接历史记录
- * @author HanleyTowne
+ * @author HanleyTang
  * @email  tanghly@gmail.com
  * @date   2012-8-17下午2:18:37
- * @Google+ http://gplus.to/hanleytowne
+ * @Google+ www.google.com/+hanleytang
  */
 public class HistorySQLite extends SQLiteOpenHelper {
 
